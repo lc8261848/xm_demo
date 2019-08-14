@@ -1,4 +1,9 @@
 ÏîÄ¿²âÊÔ
 second
+<<<<<<< HEAD
 fenzhi ceshi
 ces
+=======
+fenzhi
+bbbb
+>>>>>>> demo
